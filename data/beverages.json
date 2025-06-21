@@ -1,0 +1,73 @@
+[
+    {
+      "id": 1,
+      "name": "Chai",
+      "ingredients": ["Tea Leaves", "Milk", "Sugar", "Spices"],
+      "benefits": "Boosts metabolism, rich in antioxidants.",
+      "drugInteraction": "Caffeine may interfere with sleep patterns."
+    },
+    {
+      "id": 2,
+      "name": "Lassi",
+      "ingredients": ["Yogurt", "Sugar", "Cardamom"],
+      "benefits": "Good for digestion, cooling effect on the body.",
+      "drugInteraction": "No known interactions."
+    },
+    {
+      "id": 3,
+      "name": "Filter Coffee",
+      "ingredients": ["Coffee Powder", "Milk", "Sugar"],
+      "benefits": "Enhances alertness, rich in antioxidants.",
+      "drugInteraction": "Caffeine may increase heart rate."
+    },
+    {
+      "id": 4,
+      "name": "Jal Jeera",
+      "ingredients": ["Cumin", "Mint", "Tamarind", "Black Salt"],
+      "benefits": "Aids digestion, detoxifying properties.",
+      "drugInteraction": "May affect people with low blood pressure."
+    },
+    {
+      "id": 5,
+      "name": "Masala Chai",
+      "ingredients": ["Tea Leaves", "Milk", "Ginger", "Cardamom", "Cloves"],
+      "benefits": "Boosts immunity, anti-inflammatory properties.",
+      "drugInteraction": "Caffeine may cause restlessness."
+    },
+    {
+      "id": 6,
+      "name": "Nimbu Pani",
+      "ingredients": ["Lemon", "Water", "Sugar", "Salt"],
+      "benefits": "Rich in vitamin C, refreshing and hydrating.",
+      "drugInteraction": "No known interactions."
+    },
+    {
+      "id": 7,
+      "name": "Badam Milk",
+      "ingredients": ["Almonds", "Milk", "Saffron", "Sugar"],
+      "benefits": "Rich in calcium and vitamin E, improves brain function.",
+      "drugInteraction": "Not suitable for nut allergy sufferers."
+    },
+    {
+      "id": 8,
+      "name": "Irani Chai",
+      "ingredients": ["Tea Leaves", "Milk", "Condensed Milk", "Spices"],
+      "benefits": "Creamy and rich in flavor, boosts energy.",
+      "drugInteraction": "High sugar content may affect diabetics."
+    },
+    {
+      "id": 9,
+      "name": "Kesar Milk",
+      "ingredients": ["Milk", "Saffron", "Sugar", "Cardamom"],
+      "benefits": "Good for skin health, rich in antioxidants.",
+      "drugInteraction": "No known interactions."
+    },
+    {
+      "id": 10,
+      "name": "Thandai",
+      "ingredients": ["Milk", "Almonds", "Fennel Seeds", "Cardamom", "Saffron"],
+      "benefits": "Cooling effect, rich in nutrients.",
+      "drugInteraction": "Not suitable for nut allergy sufferers."
+    }
+  ]
+  

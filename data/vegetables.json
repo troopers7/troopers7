@@ -1,0 +1,213 @@
+[
+    {
+      "id": "1",
+      "name": "Carrot",
+      "image": "https://via.placeholder.com/100",
+      "benefits": "Rich in beta-carotene and good for eyesight.",
+      "description": "Carrots are crunchy and sweet, commonly used in salads and dishes."
+    },
+    {
+      "id": "2",
+      "name": "Broccoli",
+      "image": "https://via.placeholder.com/100",
+      "benefits": "High in fiber and vitamins.",
+      "description": "Broccoli is a green vegetable rich in nutrients and antioxidants."
+    },
+    {
+      "id": "3",
+      "name": "Spinach",
+      "image": "https://via.placeholder.com/100",
+      "benefits": "Rich in iron and supports red blood cells.",
+      "description": "Spinach is a leafy green vegetable packed with essential nutrients."
+    },
+    {
+      "id": "4",
+      "name": "Potato",
+      "image": "https://via.placeholder.com/100",
+      "benefits": "Good source of carbohydrates and energy.",
+      "description": "Potatoes are starchy root vegetables commonly used in many dishes."
+    },
+    {
+      "id": "5",
+      "name": "Tomato",
+      "image": "https://via.placeholder.com/100",
+      "benefits": "Contains lycopene, which is good for the heart.",
+      "description": "Tomatoes are juicy red fruits often mistaken for vegetables."
+    },
+    {
+      "id": "6",
+      "name": "Cabbage",
+      "image": "https://via.placeholder.com/100",
+      "benefits": "High in vitamins and helps digestion.",
+      "description": "Cabbage is a leafy vegetable commonly used in salads and stir-fries."
+    },
+    {
+      "id": "7",
+      "name": "Cauliflower",
+      "image": "https://via.placeholder.com/100",
+      "benefits": "Supports digestion and is rich in fiber.",
+      "description": "Cauliflower is a cruciferous vegetable often used as a rice substitute."
+    },
+    {
+      "id": "8",
+      "name": "Pumpkin",
+      "image": "https://via.placeholder.com/100",
+      "benefits": "High in vitamin A and good for skin.",
+      "description": "Pumpkins are orange vegetables commonly used in pies and soups."
+    },
+    {
+      "id": "9",
+      "name": "Cucumber",
+      "image": "https://via.placeholder.com/100",
+      "benefits": "Hydrating and low in calories.",
+      "description": "Cucumbers are refreshing vegetables often eaten raw in salads."
+    },
+    {
+      "id": "10",
+      "name": "Onion",
+      "image": "https://via.placeholder.com/100",
+      "benefits": "Contains antioxidants and supports heart health.",
+      "description": "Onions add flavor to dishes and are used in various cuisines."
+    },
+    {
+      "id": "11",
+      "name": "Garlic",
+      "image": "https://via.placeholder.com/100",
+      "benefits": "Boosts immunity and reduces blood pressure.",
+      "description": "Garlic is a pungent vegetable used for seasoning in cooking."
+    },
+    {
+      "id": "12",
+      "name": "Bell Pepper",
+      "image": "https://via.placeholder.com/100",
+      "benefits": "Rich in vitamin C and antioxidants.",
+      "description": "Bell peppers come in various colors and are great in salads and stir-fries."
+    },
+    {
+      "id": "13",
+      "name": "Eggplant",
+      "image": "https://via.placeholder.com/100",
+      "benefits": "Contains fiber and supports heart health.",
+      "description": "Eggplants are purple vegetables often used in stews and curries."
+    },
+    {
+      "id": "14",
+      "name": "Sweet Potato",
+      "image": "https://via.placeholder.com/100",
+      "benefits": "High in fiber and a good source of vitamin A.",
+      "description": "Sweet potatoes are naturally sweet and used in many cuisines."
+    },
+    {
+      "id": "15",
+      "name": "Beetroot",
+      "image": "https://via.placeholder.com/100",
+      "benefits": "Improves blood flow and lowers blood pressure.",
+      "description": "Beetroots are red root vegetables packed with nutrients."
+    },
+    {
+      "id": "16",
+      "name": "Lettuce",
+      "image": "https://via.placeholder.com/100",
+      "benefits": "Low in calories and great for hydration.",
+      "description": "Lettuce is a leafy green vegetable commonly used in salads."
+    },
+    {
+      "id": "17",
+      "name": "Zucchini",
+      "image": "https://via.placeholder.com/100",
+      "benefits": "Supports digestion and contains antioxidants.",
+      "description": "Zucchini is a green squash often used in stir-fries and pasta dishes."
+    },
+    {
+      "id": "18",
+      "name": "Peas",
+      "image": "https://via.placeholder.com/100",
+      "benefits": "High in protein and fiber.",
+      "description": "Peas are small green legumes often added to dishes for protein."
+    },
+    {
+      "id": "19",
+      "name": "Radish",
+      "image": "https://via.placeholder.com/100",
+      "benefits": "Good for digestion and detoxifies the body.",
+      "description": "Radishes are crunchy and slightly spicy vegetables."
+    },
+    {
+      "id": "20",
+      "name": "Celery",
+      "image": "https://via.placeholder.com/100",
+      "benefits": "Hydrating and good for digestion.",
+      "description": "Celery is a green vegetable with a crisp texture, often eaten raw."
+    },
+    {
+      "id": "21",
+      "name": "Brussels Sprouts",
+      "image": "https://via.placeholder.com/100",
+      "benefits": "Rich in fiber and supports digestion.",
+      "description": "Brussels sprouts are small green vegetables similar to mini cabbages."
+    },
+    {
+      "id": "22",
+      "name": "Asparagus",
+      "image": "https://via.placeholder.com/100",
+      "benefits": "Supports kidney function and is rich in folate.",
+      "description": "Asparagus is a long green vegetable commonly grilled or roasted."
+    },
+    {
+      "id": "23",
+      "name": "Mushroom",
+      "image": "https://via.placeholder.com/100",
+      "benefits": "Boosts immunity and provides protein.",
+      "description": "Mushrooms are fungi commonly used in stir-fries and soups."
+    },
+    {
+      "id": "24",
+      "name": "Kale",
+      "image": "https://via.placeholder.com/100",
+      "benefits": "Rich in iron and supports heart health.",
+      "description": "Kale is a nutrient-packed leafy green vegetable."
+    },
+    {
+      "id": "25",
+      "name": "Green Beans",
+      "image": "https://via.placeholder.com/100",
+      "benefits": "High in fiber and good for digestion.",
+      "description": "Green beans are long, thin vegetables often eaten steamed or stir-fried."
+    },
+    {
+      "id": "26",
+      "name": "Turnip",
+      "image": "https://via.placeholder.com/100",
+      "benefits": "Supports metabolism and is high in vitamin C.",
+      "description": "Turnips are root vegetables with a slightly sweet taste."
+    },
+    {
+      "id": "27",
+      "name": "Leeks",
+      "image": "https://via.placeholder.com/100",
+      "benefits": "Supports heart health and boosts immunity.",
+      "description": "Leeks are related to onions and used in soups and stews."
+    },
+    {
+      "id": "28",
+      "name": "Chili Pepper",
+      "image": "https://via.placeholder.com/100",
+      "benefits": "Boosts metabolism and reduces inflammation.",
+      "description": "Chili peppers are spicy vegetables used to add heat to dishes."
+    },
+    {
+      "id": "29",
+      "name": "Corn",
+      "image": "https://via.placeholder.com/100",
+      "benefits": "Good source of fiber and antioxidants.",
+      "description": "Corn is a starchy vegetable often eaten grilled or boiled."
+    },
+    {
+      "id": "30",
+      "name": "Okra",
+      "image": "https://via.placeholder.com/100",
+      "benefits": "Supports digestion and controls blood sugar levels.",
+      "description": "Okra is a green vegetable commonly used in soups and stews."
+    }
+  ]
+  

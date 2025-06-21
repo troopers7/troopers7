@@ -1,0 +1,73 @@
+[
+    {
+      "id": 1,
+      "name": "Jhal Muri",
+      "ingredients": ["Puffed Rice", "Mustard Oil", "Spices", "Peanuts"],
+      "benefits": "Low-calorie snack, good for digestion.",
+      "drugInteraction": "No known interactions."
+    },
+    {
+      "id": 2,
+      "name": "Mishti Doi",
+      "ingredients": ["Milk", "Jaggery", "Curd"],
+      "benefits": "Rich in probiotics, good for digestion.",
+      "drugInteraction": "High sugar content may not be suitable for diabetics."
+    },
+    {
+      "id": 3,
+      "name": "Rasgulla",
+      "ingredients": ["Chhena", "Sugar Syrup"],
+      "benefits": "Soft texture, rich in calcium.",
+      "drugInteraction": "High sugar content may not be suitable for diabetics."
+    },
+    {
+      "id": 4,
+      "name": "Sandesh",
+      "ingredients": ["Chhena", "Sugar", "Cardamom"],
+      "benefits": "Light, easy to digest, rich in protein.",
+      "drugInteraction": "No known interactions."
+    },
+    {
+      "id": 5,
+      "name": "Luchi",
+      "ingredients": ["Flour", "Ghee", "Salt"],
+      "benefits": "Provides carbohydrates and energy.",
+      "drugInteraction": "Fried food may not be suitable for cholesterol patients."
+    },
+    {
+      "id": 6,
+      "name": "Alur Dom",
+      "ingredients": ["Potatoes", "Tomatoes", "Spices"],
+      "benefits": "Good source of carbohydrates, rich in vitamins.",
+      "drugInteraction": "No known interactions."
+    },
+    {
+      "id": 7,
+      "name": "Bhapa Ilish",
+      "ingredients": ["Hilsa Fish", "Mustard Paste", "Turmeric"],
+      "benefits": "Rich in omega-3 fatty acids, good for heart health.",
+      "drugInteraction": "May interact with blood-thinning medications."
+    },
+    {
+      "id": 8,
+      "name": "Shorshe Ilish",
+      "ingredients": ["Hilsa Fish", "Mustard Paste", "Turmeric"],
+      "benefits": "Good for heart and brain health.",
+      "drugInteraction": "May interact with blood-thinning medications."
+    },
+    {
+      "id": 9,
+      "name": "Posto",
+      "ingredients": ["Poppy Seeds", "Potatoes", "Mustard Oil"],
+      "benefits": "Good for brain health, aids sleep.",
+      "drugInteraction": "May cause drowsiness."
+    },
+    {
+      "id": 10,
+      "name": "Chingri Malai Curry",
+      "ingredients": ["Prawns", "Coconut Milk", "Spices"],
+      "benefits": "High in protein, good for digestion.",
+      "drugInteraction": "Shellfish allergy concerns."
+    }
+  ]
+  

@@ -1,0 +1,62 @@
+{
+  "1": {
+    "name": "Chicken",
+    "nutrients": "Protein, Iron, Vitamin B6, Selenium",
+    "benefits": "Promotes muscle growth, supports metabolism, and boosts immunity.",
+    "drugInteraction": "May not be suitable for individuals with high cholesterol."
+  },
+  "2": {
+    "name": "Fish",
+    "nutrients": "Omega-3 Fatty Acids, Protein, Vitamin D, Iodine",
+    "benefits": "Enhances brain function, supports heart health, and reduces inflammation.",
+    "drugInteraction": "May increase effects of blood-thinning medications."
+  },
+  "3": {
+    "name": "Beef",
+    "nutrients": "Protein, Iron, Zinc, Vitamin B12",
+    "benefits": "Boosts energy, supports red blood cell production, and strengthens muscles.",
+    "drugInteraction": "Excess consumption may raise cholesterol levels."
+  },
+  "4": {
+    "name": "Eggs",
+    "nutrients": "Protein, Vitamin B12, Choline, Vitamin D",
+    "benefits": "Supports brain function, enhances vision, and aids in muscle recovery.",
+    "drugInteraction": "May affect cholesterol-sensitive individuals."
+  },
+  "5": {
+    "name": "Tofu",
+    "nutrients": "Protein, Calcium, Iron, Isoflavones",
+    "benefits": "A great plant-based protein that supports heart health and bone strength.",
+    "drugInteraction": "May interfere with thyroid hormone absorption."
+  },
+  "6": {
+    "name": "Lentils",
+    "nutrients": "Protein, Fiber, Iron, Folate",
+    "benefits": "Aids digestion, supports heart health, and improves energy levels.",
+    "drugInteraction": "Can cause digestive discomfort in sensitive individuals."
+  },
+  "7": {
+    "name": "Paneer",
+    "nutrients": "Protein, Calcium, Phosphorus, Vitamin D",
+    "benefits": "Improves bone density, supports muscle recovery, and boosts immunity.",
+    "drugInteraction": "High fat content may not be suitable for heart patients."
+  },
+  "8": {
+    "name": "Turkey",
+    "nutrients": "Protein, Zinc, Vitamin B6, Tryptophan",
+    "benefits": "Boosts serotonin levels, promotes muscle repair, and enhances immune function.",
+    "drugInteraction": "No known interactions."
+  },
+  "9": {
+    "name": "Almonds",
+    "nutrients": "Protein, Healthy Fats, Vitamin E, Magnesium",
+    "benefits": "Improves skin health, supports brain function, and reduces oxidative stress.",
+    "drugInteraction": "May cause allergic reactions in some individuals."
+  },
+  "10": {
+    "name": "Quinoa",
+    "nutrients": "Protein, Fiber, Magnesium, Antioxidants",
+    "benefits": "A complete plant protein that supports digestion and muscle recovery.",
+    "drugInteraction": "No known interactions."
+  }
+} 

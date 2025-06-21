@@ -1,0 +1,73 @@
+[
+    {
+      "id": 1,
+      "name": "Pizza",
+      "ingredients": ["Flour", "Cheese", "Tomato Sauce", "Vegetables"],
+      "benefits": "Rich in carbohydrates and fats, provides energy.",
+      "drugInteraction": "High-fat content may not be suitable for heart patients."
+    },
+    {
+      "id": 2,
+      "name": "Burgers",
+      "ingredients": ["Bun", "Patty", "Lettuce", "Cheese"],
+      "benefits": "Provides protein and carbohydrates for energy.",
+      "drugInteraction": "High sodium levels may affect blood pressure."
+    },
+    {
+      "id": 3,
+      "name": "Sandwiches",
+      "ingredients": ["Bread", "Vegetables", "Cheese", "Butter"],
+      "benefits": "Good source of fiber and protein.",
+      "drugInteraction": "Butter may increase cholesterol levels."
+    },
+    {
+      "id": 4,
+      "name": "Chips",
+      "ingredients": ["Potatoes", "Oil", "Salt"],
+      "benefits": "Crunchy snack, provides instant energy.",
+      "drugInteraction": "High sodium content may not be suitable for hypertensive individuals."
+    },
+    {
+      "id": 5,
+      "name": "Cookies",
+      "ingredients": ["Flour", "Sugar", "Butter", "Chocolate Chips"],
+      "benefits": "Rich in carbohydrates and fats, provides energy.",
+      "drugInteraction": "High sugar content may affect diabetics."
+    },
+    {
+      "id": 6,
+      "name": "Nachos",
+      "ingredients": ["Corn Flour", "Cheese", "Salsa"],
+      "benefits": "Crunchy, good source of fiber.",
+      "drugInteraction": "High sodium content may affect blood pressure."
+    },
+    {
+      "id": 7,
+      "name": "French Fries",
+      "ingredients": ["Potatoes", "Oil", "Salt"],
+      "benefits": "Provides quick energy, rich in carbohydrates.",
+      "drugInteraction": "Fried food may not be suitable for heart patients."
+    },
+    {
+      "id": 8,
+      "name": "Popcorn",
+      "ingredients": ["Corn", "Salt", "Butter"],
+      "benefits": "Low in calories, good source of fiber.",
+      "drugInteraction": "Excess butter may increase cholesterol."
+    },
+    {
+      "id": 9,
+      "name": "Momos",
+      "ingredients": ["Flour", "Vegetables", "Meat", "Spices"],
+      "benefits": "Rich in protein and fiber.",
+      "drugInteraction": "Spicy ingredients may cause acidity."
+    },
+    {
+      "id": 10,
+      "name": "Puff Pastry",
+      "ingredients": ["Flour", "Butter", "Sugar"],
+      "benefits": "High in carbohydrates, provides energy.",
+      "drugInteraction": "High-fat content may affect heart health."
+    }
+  ]
+  

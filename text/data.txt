@@ -1,0 +1,18 @@
+const [filteredItems, setFilteredItems] = useState(eastIndianData);
+
+  useEffect(() => {
+    handleSearch(searchQuery);
+  }, [searchQuery]);
+
+  const handleSearch = (query) => {
+    if (!query.trim()) {
+      setFilteredItems(eastIndianData);
+      return;
+    }
+
+    const filtered = eastIndianData.filter((item) =>
+      item.name?.toLowerCase().includes(query.toLowerCase())
+    );
+
+    setFilteredItems(filtered);
+  };

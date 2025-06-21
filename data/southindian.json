@@ -1,0 +1,143 @@
+[
+    {
+      "id": 1,
+      "name": "Idli",
+      "ingredients": ["Rice", "Urad Dal", "Fenugreek Seeds"],
+      "benefits": "Light, easily digestible, rich in protein.",
+      "drugInteraction": "No known interactions."
+    },
+    {
+      "id": 2,
+      "name": "Dosa",
+      "ingredients": ["Rice", "Urad Dal", "Fenugreek Seeds"],
+      "benefits": "Good source of carbohydrates, probiotic benefits.",
+      "drugInteraction": "No known interactions."
+    },
+    {
+      "id": 3,
+      "name": "Sambar",
+      "ingredients": ["Toor Dal", "Tamarind", "Vegetables", "Spices"],
+      "benefits": "Rich in fiber, protein, and antioxidants.",
+      "drugInteraction": "May interact with blood-thinning medications due to tamarind."
+    },
+    {
+      "id": 4,
+      "name": "Rasam",
+      "ingredients": ["Tamarind", "Tomato", "Pepper", "Garlic"],
+      "benefits": "Aids digestion, boosts immunity, anti-inflammatory.",
+      "drugInteraction": "May interact with blood pressure medications."
+    },
+    {
+      "id": 5,
+      "name": "Pongal",
+      "ingredients": ["Rice", "Moong Dal", "Pepper", "Ghee"],
+      "benefits": "High in protein, aids digestion, good for gut health.",
+      "drugInteraction": "Excess ghee may affect cholesterol levels."
+    },
+    {
+      "id": 6,
+      "name": "Upma",
+      "ingredients": ["Rava (Semolina)", "Vegetables", "Spices"],
+      "benefits": "Low in calories, good source of fiber and energy.",
+      "drugInteraction": "No known interactions."
+    },
+    {
+      "id": 7,
+      "name": "Vada",
+      "ingredients": ["Urad Dal", "Rice Flour", "Spices"],
+      "benefits": "Rich in protein, good source of iron.",
+      "drugInteraction": "Fried food may not be suitable for cholesterol patients."
+    },
+    {
+      "id": 8,
+      "name": "Puliogare",
+      "ingredients": ["Rice", "Tamarind", "Peanuts", "Spices"],
+      "benefits": "Good source of energy, aids digestion.",
+      "drugInteraction": "Peanuts may cause allergic reactions."
+    },
+    {
+      "id": 9,
+      "name": "Curd Rice",
+      "ingredients": ["Rice", "Curd", "Mustard Seeds", "Green Chilies"],
+      "benefits": "Good for gut health, cooling effect on the body.",
+      "drugInteraction": "No known interactions."
+    },
+    {
+      "id": 10,
+      "name": "Avial",
+      "ingredients": ["Mixed Vegetables", "Coconut", "Curd", "Curry Leaves"],
+      "benefits": "Rich in vitamins, good for digestion.",
+      "drugInteraction": "No known interactions."
+    },
+    {
+      "id": 11,
+      "name": "Bisi Bele Bath",
+      "ingredients": ["Rice", "Toor Dal", "Tamarind", "Spices"],
+      "benefits": "High in protein and fiber, good for digestion.",
+      "drugInteraction": "May interact with blood pressure medications."
+    },
+    {
+      "id": 12,
+      "name": "Lemon Rice",
+      "ingredients": ["Rice", "Lemon", "Turmeric", "Mustard Seeds"],
+      "benefits": "Rich in vitamin C, boosts immunity, aids digestion.",
+      "drugInteraction": "No known interactions."
+    },
+    {
+      "id": 13,
+      "name": "Tomato Rice",
+      "ingredients": ["Rice", "Tomatoes", "Spices"],
+      "benefits": "Rich in antioxidants, supports heart health.",
+      "drugInteraction": "No known interactions."
+    },
+    {
+      "id": 14,
+      "name": "Vegetable Kurma",
+      "ingredients": ["Mixed Vegetables", "Coconut", "Cashews", "Spices"],
+      "benefits": "High in fiber, supports digestion, nutrient-dense.",
+      "drugInteraction": "No known interactions."
+    },
+    {
+      "id": 15,
+      "name": "Paruppu Payasam",
+      "ingredients": ["Moong Dal", "Jaggery", "Coconut Milk", "Cardamom"],
+      "benefits": "Rich in iron, boosts energy, improves digestion.",
+      "drugInteraction": "Jaggery may affect blood sugar levels."
+    },
+    {
+      "id": 16,
+      "name": "Murukku",
+      "ingredients": ["Rice Flour", "Urad Dal", "Butter", "Sesame Seeds"],
+      "benefits": "Crunchy snack, high in carbohydrates, provides energy.",
+      "drugInteraction": "Fried food may not be suitable for cholesterol patients."
+    },
+    {
+      "id": 17,
+      "name": "Banana Chips",
+      "ingredients": ["Raw Banana", "Coconut Oil", "Salt"],
+      "benefits": "Rich in potassium, provides instant energy.",
+      "drugInteraction": "Fried food may increase cholesterol levels."
+    },
+    {
+      "id": 18,
+      "name": "Ragi Mudde",
+      "ingredients": ["Ragi Flour", "Water"],
+      "benefits": "Rich in calcium, good for bone health, gluten-free.",
+      "drugInteraction": "No known interactions."
+    },
+    {
+      "id": 19,
+      "name": "Kootu",
+      "ingredients": ["Lentils", "Vegetables", "Coconut", "Spices"],
+      "benefits": "High in protein and fiber, supports digestion.",
+      "drugInteraction": "No known interactions."
+    },
+    {
+      "id": 20,
+      "name": "Adai",
+      "ingredients": ["Rice", "Mixed Lentils", "Spices"],
+      "benefits": "High in protein, aids digestion, good for energy.",
+      "drugInteraction": "No known interactions."
+    }
+  ]
+  

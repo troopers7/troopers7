@@ -1,0 +1,73 @@
+[
+    {
+      "id": 1,
+      "name": "Vada Pav",
+      "ingredients": ["Potato", "Bun", "Chutney", "Spices"],
+      "benefits": "Quick snack, provides carbohydrates.",
+      "drugInteraction": "Fried food may not be suitable for cholesterol patients."
+    },
+    {
+      "id": 2,
+      "name": "Poha",
+      "ingredients": ["Flattened Rice", "Turmeric", "Peanuts"],
+      "benefits": "Light breakfast, easy to digest, good source of iron.",
+      "drugInteraction": "No known interactions."
+    },
+    {
+      "id": 3,
+      "name": "Misal Pav",
+      "ingredients": ["Sprouts", "Spices", "Pav Bread"],
+      "benefits": "High in protein and fiber, supports digestion.",
+      "drugInteraction": "Spices may cause acid reflux."
+    },
+    {
+      "id": 4,
+      "name": "Pav Bhaji",
+      "ingredients": ["Vegetables", "Butter", "Pav Bread"],
+      "benefits": "Rich in vitamins and fiber.",
+      "drugInteraction": "High butter content may affect heart health."
+    },
+    {
+      "id": 5,
+      "name": "Bhelpuri",
+      "ingredients": ["Puffed Rice", "Tamarind", "Vegetables"],
+      "benefits": "Low in calories, rich in fiber.",
+      "drugInteraction": "No known interactions."
+    },
+    {
+      "id": 6,
+      "name": "Dhokla",
+      "ingredients": ["Chickpea Flour", "Yogurt", "Spices"],
+      "benefits": "Probiotic benefits, rich in protein.",
+      "drugInteraction": "No known interactions."
+    },
+    {
+      "id": 7,
+      "name": "Handvo",
+      "ingredients": ["Rice", "Lentils", "Vegetables"],
+      "benefits": "High in protein and fiber, aids digestion.",
+      "drugInteraction": "No known interactions."
+    },
+    {
+      "id": 8,
+      "name": "Khaman",
+      "ingredients": ["Chickpea Flour", "Spices", "Lemon Juice"],
+      "benefits": "Good source of protein, light snack.",
+      "drugInteraction": "No known interactions."
+    },
+    {
+      "id": 9,
+      "name": "Undhiyu",
+      "ingredients": ["Mixed Vegetables", "Spices", "Peanuts"],
+      "benefits": "High in vitamins and minerals.",
+      "drugInteraction": "No known interactions."
+    },
+    {
+      "id": 10,
+      "name": "Gujarati Kadhi",
+      "ingredients": ["Yogurt", "Gram Flour", "Spices"],
+      "benefits": "Good for digestion, probiotic benefits.",
+      "drugInteraction": "No known interactions."
+    }
+  ]
+  

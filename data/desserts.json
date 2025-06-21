@@ -1,0 +1,73 @@
+[
+    {
+      "id": 1,
+      "name": "Gulab Jamun",
+      "ingredients": ["Milk Solids", "Sugar Syrup", "Cardamom"],
+      "benefits": "Rich in calcium, sweet indulgence.",
+      "drugInteraction": "High sugar content may not be suitable for diabetics."
+    },
+    {
+      "id": 2,
+      "name": "Jalebi",
+      "ingredients": ["Flour", "Sugar Syrup", "Ghee"],
+      "benefits": "Sweet, provides instant energy.",
+      "drugInteraction": "High sugar content may affect diabetics."
+    },
+    {
+      "id": 3,
+      "name": "Rasgulla",
+      "ingredients": ["Chhena", "Sugar Syrup"],
+      "benefits": "Soft texture, rich in calcium.",
+      "drugInteraction": "High sugar content may not be suitable for diabetics."
+    },
+    {
+      "id": 4,
+      "name": "Kaju Katli",
+      "ingredients": ["Cashew Nuts", "Sugar", "Ghee"],
+      "benefits": "Rich in healthy fats and protein.",
+      "drugInteraction": "May not be suitable for nut allergy sufferers."
+    },
+    {
+      "id": 5,
+      "name": "Ladoo",
+      "ingredients": ["Gram Flour", "Sugar", "Ghee"],
+      "benefits": "Energy-boosting sweet, high in iron.",
+      "drugInteraction": "High sugar content may not be suitable for diabetics."
+    },
+    {
+      "id": 6,
+      "name": "Mysore Pak",
+      "ingredients": ["Gram Flour", "Ghee", "Sugar"],
+      "benefits": "High in energy, rich in protein.",
+      "drugInteraction": "High in ghee, may impact cholesterol levels."
+    },
+    {
+      "id": 7,
+      "name": "Peda",
+      "ingredients": ["Milk", "Sugar", "Cardamom"],
+      "benefits": "Good source of calcium and protein.",
+      "drugInteraction": "High sugar content may not be suitable for diabetics."
+    },
+    {
+      "id": 8,
+      "name": "Malpua",
+      "ingredients": ["Flour", "Milk", "Sugar Syrup"],
+      "benefits": "Provides energy, rich in carbohydrates.",
+      "drugInteraction": "High sugar and oil content may not be suitable for diabetics."
+    },
+    {
+      "id": 9,
+      "name": "Phirni",
+      "ingredients": ["Rice", "Milk", "Sugar", "Saffron"],
+      "benefits": "Good source of calcium, cooling effect on the body.",
+      "drugInteraction": "High sugar content may affect diabetics."
+    },
+    {
+      "id": 10,
+      "name": "Rabri",
+      "ingredients": ["Milk", "Sugar", "Nuts"],
+      "benefits": "Rich in calcium and protein, good for bone health.",
+      "drugInteraction": "High sugar content may not be suitable for diabetics."
+    }
+  ]
+  

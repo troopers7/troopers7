@@ -1,0 +1,84 @@
+[
+    {
+        "id": "1",
+        "name": "Apple",
+        "benefit": "Apples are an excellent source of dietary fiber, particularly pectin, which helps digestion and promotes gut health. They contain quercetin and polyphenols, which have anti-inflammatory and antioxidant properties, reducing oxidative stress. Apples support heart health by lowering cholesterol levels and reducing the risk of stroke. Their low glycemic index makes them ideal for blood sugar control.",
+        "drugInteraction": "Apples may slow drug absorption, especially antibiotics like ciprofloxacin and tetracyclines, reducing effectiveness. They may interfere with thyroid medications like levothyroxine and affect blood sugar control for those on diabetes medications like insulin or metformin.",
+        "description": [
+          "Herbal - Apple",
+          "Also Known As Malus domestica, Abilde, Almindelig Aeble, Apfel, Apfelbaum, Äppel, Äppelträd, Apple Tree, Eble, Echter Apfelbaum, Iabloko, Iablonia, Jablon Domáca, Kultur-Apfel, Maça, Maçanzeira, Maceira, Macieira, Manzana, Manzano, Mela, Melo, Paratiisiomena, Ping Guo, Pomme, Pommier, Pomo, Pomm",
+          "Drug Interaction: Consuming apple juice with antihypertensive drugs might interfere with blood pressure control. Some clinical evidence suggests that consuming apple and cherry juice can increase blood pressure in elderly patients.",
+          "Interaction Rating: Moderate",
+          "Likelihood of Occurrence: Probable",
+          "Evidence: Interaction has not been documented in well-controlled studies, however, the interaction has been demonstrated in some small human studies or in controlled animal studies in conjunction with multiple case reports.",
+          "Amlodipine Overview: Amlodipine is used alone or in combination with other medications to treat high blood pressure in adults and children 6 years and older. It is also used to treat certain types of angina (chest pain) and coronary artery disease (narrowing of the blood vessels that supply blood to the heart). Amlodipine is in a class of medications called calcium channel blockers. It lowers blood pressure by relaxing the blood vessels so the heart does not have to pump as hard. It controls chest pain by increasing the supply of blood to the heart. If taken regularly, amlodipine controls chest pain, but it does not stop chest pain once it starts. Your doctor may prescribe a different medication to take when you have chest pain.",
+          "Risk Factors: High blood pressure is a common condition and when not treated, can cause damage to the brain, heart, blood vessels, kidneys, and other parts of the body. Damage to these organs may cause heart disease, a heart attack, heart failure, stroke, kidney failure, loss of vision, and other problems.",
+          "Lifestyle Changes: In addition to taking medication, making lifestyle changes will also help to control your blood pressure. These changes include eating a diet that is low in fat and salt, maintaining a healthy weight, exercising at least 30 minutes most days, not smoking, and using alcohol in moderation."
+        ],
+        "references": [
+          {
+            "author": "Visvanathan, R., Chen, R., Horowitz, M., and Chapman, I.",
+            "title": "Blood pressure responses in healthy older people to 50 g carbohydrate drinks with differing glycaemic effects.",
+            "journal": "Br J Nutr",
+            "year": 2004,
+            "volume": "92(2)",
+            "pages": "335-340"
+          }
+        ]
+      },
+      
+  {
+      "id": "2",
+      "name": "Banana",
+      "benefit": "Bananas are high in potassium, which helps regulate blood pressure and reduces the risk of stroke. They are a great energy source due to natural carbohydrates and aid digestion with their fiber content. Bananas help prevent muscle cramps and act as a prebiotic to promote gut health.",
+      "drugInteraction": "Bananas' high potassium levels may interfere with blood pressure medications like ACE inhibitors (e.g., lisinopril, enalapril), leading to hyperkalemia. They can also interact with diuretics, affecting potassium balance."
+  },
+  {
+      "id": "3",
+      "name": "Grapefruit",
+      "benefit": "Grapefruit is rich in vitamin C, fiber, and antioxidants that boost the immune system and improve heart health. It contains furanocoumarins, which help lower blood pressure and cholesterol levels.",
+      "drugInteraction": "Grapefruit interferes with statins (e.g., atorvastatin, simvastatin) and blood pressure medications by inhibiting liver enzymes, causing drugs to stay longer in the body and increasing side effects. It may also interact with some immunosuppressants and sedatives."
+  },
+  {
+      "id": "4",
+      "name": "Orange",
+      "benefit": "Oranges are packed with vitamin C, boosting immunity, skin health, and wound healing. They contain flavonoids that improve heart health by lowering inflammation and reducing cholesterol. Oranges are rich in water and fiber, promoting hydration and digestion.",
+      "drugInteraction": "Oranges may reduce the effectiveness of beta-blockers (e.g., metoprolol, atenolol), leading to improper blood pressure regulation. Excessive consumption can also interact with statins, altering cholesterol medication effects."
+  },
+  {
+      "id": "5",
+      "name": "Pineapple",
+      "benefit": "Pineapple contains bromelain, an enzyme that aids digestion, reduces bloating, and supports gut health. It is rich in vitamin C and manganese, which support immune function, skin health, and bone strength. Bromelain has anti-inflammatory properties that help with arthritis and muscle recovery.",
+      "drugInteraction": "Pineapple\u2019s bromelain can increase bleeding risks when taken with blood thinners like warfarin, aspirin, or clopidogrel. It may also enhance the effects of antibiotics such as amoxicillin and tetracycline."
+  },
+  {
+      "id": "6",
+      "name": "Mango",
+      "benefit": "Mangoes are rich in vitamin A and beta-carotene, which support eye health. They contain fiber and digestive enzymes like amylases that help break down food and aid digestion. Their high levels of antioxidants and polyphenols may reduce cancer risks and improve skin health.",
+      "drugInteraction": "Mangoes have high natural sugar content, which may increase blood sugar levels, making them unsuitable for people on diabetes medications like insulin or metformin."
+  },
+  {
+      "id": "7",
+      "name": "Pomegranate",
+      "benefit": "Pomegranates are packed with antioxidants like punicalagin and anthocyanins, which support heart health, lower inflammation, and boost immunity. They contain polyphenols that may reduce the risk of certain cancers.",
+      "drugInteraction": "Pomegranate juice can interact with blood pressure medications, causing an excessive drop in blood pressure. It also slows down drug metabolism, potentially affecting statins and blood thinners."
+  },
+  {
+      "id": "8",
+      "name": "Strawberry",
+      "benefit": "Strawberries are rich in vitamin C, folate, and antioxidants, supporting skin health and brain function. They help reduce inflammation and promote heart health by lowering bad cholesterol (LDL). Their low glycemic index makes them good for diabetes management.",
+      "drugInteraction": "Strawberries may slow down drug metabolism in the liver, affecting medications like warfarin, statins, and some antidepressants."
+  },
+  {
+      "id": "9",
+      "name": "Avocado",
+      "benefit": "Avocados contain healthy monounsaturated fats, which help lower bad cholesterol (LDL) and improve heart health. They are rich in potassium, fiber, and folate, promoting brain function and digestive health. Avocados are an excellent source of lutein, which supports eye health.",
+      "drugInteraction": "Avocados can interfere with blood thinners like Warfarin, altering blood clotting. Their high potassium content may require monitoring for those on potassium-regulating medications."
+  },
+  {
+      "id": "10",
+      "name": "Blueberries",
+      "benefit": "Blueberries are one of the most antioxidant-rich fruits, supporting brain health, memory, and reducing cognitive decline. They protect the heart, help regulate blood sugar, and support eye health with their high anthocyanin content.",
+      "drugInteraction": "Blueberries may interfere with diabetes medications, causing low blood sugar levels (hypoglycemia) when taken in excess."
+  }
+]

@@ -1,0 +1,73 @@
+[
+    {
+      "id": 1,
+      "name": "Tandoori Chicken",
+      "ingredients": ["Chicken", "Yogurt", "Spices"],
+      "benefits": "High in protein, rich in flavors, good for muscle health.",
+      "drugInteraction": "May not be suitable for people on a low-sodium diet."
+    },
+    {
+      "id": 2,
+      "name": "Naan Bread",
+      "ingredients": ["Flour", "Yeast", "Milk", "Butter"],
+      "benefits": "Provides carbohydrates for energy, soft texture.",
+      "drugInteraction": "Contains gluten; may not be suitable for gluten-intolerant individuals."
+    },
+    {
+      "id": 3,
+      "name": "Butter Chicken",
+      "ingredients": ["Chicken", "Tomatoes", "Butter", "Cream", "Spices"],
+      "benefits": "Rich in protein and healthy fats, delicious taste.",
+      "drugInteraction": "High-fat content may not be suitable for cholesterol patients."
+    },
+    {
+      "id": 4,
+      "name": "Palak Paneer",
+      "ingredients": ["Spinach", "Paneer", "Garlic", "Spices"],
+      "benefits": "Rich in calcium and iron, good for bone and immune health.",
+      "drugInteraction": "High calcium content may interact with certain medications."
+    },
+    {
+      "id": 5,
+      "name": "Chana Masala",
+      "ingredients": ["Chickpeas", "Tomatoes", "Onions", "Spices"],
+      "benefits": "High in fiber, promotes digestive health.",
+      "drugInteraction": "May cause bloating in some individuals."
+    },
+    {
+      "id": 6,
+      "name": "Samosas",
+      "ingredients": ["Flour", "Potatoes", "Peas", "Spices", "Oil"],
+      "benefits": "Crunchy snack, rich in carbohydrates.",
+      "drugInteraction": "Fried food may not be suitable for people with heart conditions."
+    },
+    {
+      "id": 7,
+      "name": "Biryani",
+      "ingredients": ["Rice", "Meat", "Spices", "Saffron"],
+      "benefits": "Rich in flavors, provides a good source of protein and carbs.",
+      "drugInteraction": "Spices may cause acid reflux in sensitive individuals."
+    },
+    {
+      "id": 8,
+      "name": "Korma",
+      "ingredients": ["Meat", "Yogurt", "Nuts", "Spices"],
+      "benefits": "Creamy texture, high in protein and healthy fats.",
+      "drugInteraction": "May not be suitable for people with nut allergies."
+    },
+    {
+      "id": 9,
+      "name": "Rogan Josh",
+      "ingredients": ["Lamb", "Tomatoes", "Yogurt", "Spices"],
+      "benefits": "Rich in protein, good for iron intake.",
+      "drugInteraction": "High-fat content may not be suitable for cholesterol patients."
+    },
+    {
+      "id": 10,
+      "name": "Gulab Jamun",
+      "ingredients": ["Milk Solids", "Sugar Syrup", "Cardamom"],
+      "benefits": "Rich in calcium, sweet indulgence.",
+      "drugInteraction": "High sugar content may not be suitable for diabetics."
+    }
+  ]
+  
